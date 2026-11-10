@@ -1,0 +1,128 @@
+{
+  "spider": "",
+  "sites": [
+    {
+      "key": "bfzy",
+      "name": "🔥 百度云",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "adys",
+      "name": "🎬 艾旦影视",
+      "type": 1,
+      "api": "https://lovedan.net/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hnzy",
+      "name": "🐂 红牛资源",
+      "type": 1,
+      "api": "http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lzzy",
+      "name": "⚛️ 量子资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jyzy",
+      "name": "🦅 金鹰资源",
+      "type": 1,
+      "api": "http://jyzyapi.com/provide/vod/from/jinyingm3u8",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "gszy",
+      "name": "⚡ 光速资源",
+      "type": 1,
+      "api": "http://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "uku",
+      "name": "🎮 U酷",
+      "type": 1,
+      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "360zy",
+      "name": "360资源",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ffzy",
+      "name": "非凡资源",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "huya",
+      "name": "虎牙资源",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zuidazy",
+      "name": "最大资源",
+      "type": 1,
+      "api": "http://zuidazy.me/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 1
+    }
+  ],
+  "lives": [
+    {
+      "name": "📺 国内卫视合集",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/cn.m3u"
+    },
+    {
+      "name": "🌏 港澳台海外",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/YueChan/Live/main/GNTV.m3u"
+    }
+  ],
+  "parses": [
+    {
+      "name": "Json接口",
+      "type": 1,
+      "url": ""
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "pptv",
+    "mgtv",
+    "letv",
+    "sohu",
+    "tudou",
+    "bilibili"
+  ],
+  "rules": [],
+  "wallpaper": "",
+  "logo": "",
+  "playurl": ""
+}
